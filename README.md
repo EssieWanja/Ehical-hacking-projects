@@ -5,3 +5,4 @@ Let's take a deep dive into Nikto tool!!
 
 It is important to note that Nikto is a noisy scanner that is :
      it a vulnerability scanner that generates a lot of false positives, irrelevant findings, duplicate reports, or outdated information. 
+
